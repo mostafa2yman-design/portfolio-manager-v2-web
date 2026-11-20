@@ -1,0 +1,8 @@
+{
+  "name": "برنامج متابعة العملاء",
+  "description": "تطبيق ويب عربي لإدارة العملاء ومتابعة المواعيد والمهام بالتقويم الشهري والجدول اليومي مع حفظ محلي وتصدير النسخ الاحتياطية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
